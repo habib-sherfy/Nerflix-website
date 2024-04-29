@@ -5,3 +5,5 @@ https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
 
 for index.html, style.css and main.js follow up with the video.
+ YouTube channel video watch 
+ 
